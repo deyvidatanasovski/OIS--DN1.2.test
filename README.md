@@ -1,2 +1,2 @@
-OIS--DN1.2.test
-===============
+## Naloga 1.2 pri predmetu OIS
+Sprememba zahtevane datoteke.
